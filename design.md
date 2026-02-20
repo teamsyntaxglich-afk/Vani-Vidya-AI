@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-Bharat-Kiro Mentor is a serverless, event-driven, AI-powered learning platform built entirely on AWS that bridges the gap between complex cloud technology and rural Indian students through vernacular language support, cultural analogies, scaffolding-based education, and automated development workflows. The architecture leverages AWS Step Functions for orchestration, Amazon Bedrock (Claude 3.5) for intelligent content generation, and Amazon Q for code auditing to deliver a comprehensive learning experience.
+Vani-Vidya Mentor is a serverless, event-driven, AI-powered learning platform built entirely on AWS that bridges the gap between complex cloud technology and rural Indian students through vernacular language support, cultural analogies, scaffolding-based education, and automated development workflows. The architecture leverages AWS Step Functions for orchestration, Amazon Bedrock (Claude 3.5) for intelligent content generation, and Amazon Q for code auditing to deliver a comprehensive learning experience.
 
 ## System Architecture
 
@@ -2124,4 +2124,5 @@ Bharat-Kiro Mentor leverages AWS's serverless, event-driven architecture to crea
 We enable rural Indian students to overcome language barriers, learn through scaffolding-based education, and build on AWS 10x faster. The platform reduces documentation time from hours to seconds, provides persona-adaptive learning experiences, and ensures students learn security best practices from day one through automated code auditing.
 
 The architecture is designed to scale from hundreds to millions of users while maintaining sub-3-second response times and staying within budget constraints through intelligent caching, serverless compute, and cost optimization strategies.
+
 
